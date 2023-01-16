@@ -30,7 +30,7 @@ function sendBulkEmail() {
         `
     }
   
-    var subject = 'Request for Internship Opportunity'; //Subject of the email
+    var subject = 'Congratulations! You are there'; //Subject of the email
 
     /**
      * The file to be attached to the email. The ID is gotten from the Drive file URL.
