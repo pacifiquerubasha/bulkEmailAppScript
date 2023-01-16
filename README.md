@@ -19,7 +19,8 @@ This Apps Script function allows you to send bulk emails from data stored in a G
 ![Appscript Editor](https://github.com/pacifiquerubasha/bulkEmailAppScript/blob/main/assets/editor.png)
 
 4. Follow the prompts to configure your email settings, such as the location of your emails in the spreadsheet, the attachments, variables to make email customized for the receiver... 
-5. Click Run to execute the script
+
+5. Click Run to execute the script.
 ![Appscript Run](https://github.com/pacifiquerubasha/bulkEmailAppScript/blob/main/assets/run.png)
 
 
